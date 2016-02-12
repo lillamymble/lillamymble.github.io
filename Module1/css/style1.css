@@ -1,0 +1,26 @@
+body {
+	background: gainsboro;
+	margin: 0;
+}
+.wrapper {
+	border-bottom: 2px solid #000;
+}
+.container {
+	margin: 5px auto 40px;
+	width: 500px;
+	padding: 20px;
+	background: #fff;
+}
+.image {
+	text-align: center;
+}
+img {
+	width: 120px;
+	height: 140px;
+}
+h1 {
+	font-size: 22px;
+	text-align: center;
+}
+.box {
+	padding: 10px;
