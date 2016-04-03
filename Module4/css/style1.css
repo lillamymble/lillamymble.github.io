@@ -162,7 +162,7 @@
   .container .info{
     border-left: 1px solid #c7cacf;
     border-right: 1px solid #c7cacf;
-		background-color: #edeef0;
+		/*background-color: #edeef0;*/
     width: 178px;
     padding: 10px 15px 15px 15px;
     float: left;
@@ -189,7 +189,7 @@
   .container .news{
 		border-left: 1px solid #c7cacf;
     border-right: 1px solid #c7cacf;
-		background-color: #edeef0;
+		/*background-color: #edeef0;*/
     width: 178px;
      padding: 10px 15px 15px 15px;
     float: left;
@@ -213,9 +213,8 @@
     text-align: center;
   }
 	.clearfix:after {
-  content: ".";
+  content: "!!!";
   display: block;
   height: 0;
   clear: both;
-
   }
